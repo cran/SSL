@@ -1,0 +1,17 @@
+f16be7b80b2c2346f608b1205bda576c *DESCRIPTION
+2026a068438aec83082428b6d8cdffee *NAMESPACE
+3a2b333a960d01249f010d22b1e4643f *R/RcppExports.R
+0e674c0dca7d19e265bda05bebc4cfc1 *R/SSL.R
+6725ac3a4b6a96ca16f3105a48288fc7 *man/sslCoTrain.Rd
+31aabdc83d24e423518b600789b3379f *man/sslGmmEM.Rd
+d0b476e48beb89da5296320f42f6dcb1 *man/sslLDS.Rd
+4db2d98c8d4affdb1530278334337d93 *man/sslLLGC.Rd
+f4efea56108b6a063f0e86d71624fdf2 *man/sslLabelProp.Rd
+4ab68944b930c9e4a642fabdcdcedcf6 *man/sslLapRLS.Rd
+1a95729d9c0988a674ed16ffc859328a *man/sslMarkovRandomWalks.Rd
+ff44b3bc0c562b1f164aed58132e59fd *man/sslMincut.Rd
+abb851527f566ed142e9a2f8a4a3b30f *man/sslRegress.Rd
+eb7f1d83b9e64759eb5c249e0023cae3 *man/sslSelfTrain.Rd
+9fe39a93c69fab2e45361f214704108b *src/Floyd.cpp
+9f0b09d8c0a8908235b9ed8f131d235e *src/MPLA.cpp
+e13312aaa371ca170d15e5f0f41729b9 *src/RcppExports.cpp
